@@ -7,3 +7,7 @@ I'm a researcher passionate about building reliable, interpretable, and theoreti
 🎨 I love text-to-image generation and have spent significant time exploring diffusion models, conditioning mechanisms, and the creative potential of generative systems.
 
 📐 Beyond applied work, I'm fascinated by the theory of Machine Learning (ML). I'm actively working to deepen my understanding of theoretical ML and apply it to improve model performance or develop novel solutions to ML problems.
+
+------------------
+
+🤝 I'm always excited to connect with like-minded researchers and developers.
