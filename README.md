@@ -10,4 +10,8 @@ I'm a researcher passionate about building reliable, interpretable, and theoreti
 
 ------------------
 
-🤝 I'm always excited to connect with like-minded researchers and developers.
+🤝 Feel free to reach out! I'm open to research collaborations, interesting project ideas, or just a good technical conversation.
+
+📫 How to reach me:
+- [Email](m.poulaei@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/mobinapoulaei/)
