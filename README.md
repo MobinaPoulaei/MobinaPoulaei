@@ -13,5 +13,5 @@ I'm a researcher passionate about building reliable, interpretable, and theoreti
 🤝 Feel free to reach out! I'm open to research collaborations, interesting project ideas, or just a good technical conversation.
 
 📫 How to reach me:
-- [Email](m.poulaei@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mobinapoulaei/)
+- Email: m.poulaei@gmail.com
+- LinkedIn: [Mobina Poulaei](https://www.linkedin.com/in/mobinapoulaei/)
